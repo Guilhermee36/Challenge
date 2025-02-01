@@ -21,4 +21,6 @@ Este projeto consiste na implementação de desafios de programação voltados p
 
 <h2> projeto foi desenvolvido utilizando: </h2>
 
-Linguagens: JavaScript(back/lógica); Html(Limguagem de marcação de texto); CSS(Linguagem de estilização de texto).
+<li>JavaScript(back/lógica); 
+Html(Limguagem de marcação de texto); 
+CSS(Linguagem de estilização de texto).</li>
