@@ -9,15 +9,15 @@ Este projeto consiste na implementação de desafios de programação voltados p
 
 <li>Estruturas condicionais
 
-Laços de repetição
+<li>Laços de repetição
 
-Manipulação de variáveis
+<li>Manipulação de variáveis
 
-Estruturas de dados básicas
+<li>Estruturas de dados básicas
 
-Algoritmos fundamentais</li>
+<li>Algoritmos fundamentais
 
-Tecnologias Utilizadas
+<li>Tecnologias Utilizadas
 
 <h2> projeto foi desenvolvido utilizando: </h2>
 
