@@ -17,8 +17,6 @@ Este projeto consiste na implementação de desafios de programação voltados p
 
 <li>Algoritmos fundamentais
 
-<li>Tecnologias Utilizadas
-
 <h2> projeto foi desenvolvido utilizando: </h2>
 
 <li>JavaScript(back/lógica); 
